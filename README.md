@@ -2,6 +2,8 @@
 
 Collaborative Breakpoint Manager for x64dbg.
 
+![screenshot](https://i.imgur.com/v07n6LT.png)
+
 ## Example INI
 
 ```
