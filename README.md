@@ -34,7 +34,8 @@ The format is simple:
 
 Add a category
 
-```[SomeCategory]
+```
+[SomeCategory]
 ```
 The fields are in a APIName = BreakpointName format, meaning that APIName will be the menu item name, and BreakpointName is a module.apiname format. This allows the plugin to automatically set the correct breakpoint. (The module isnt necessarily required but definitely recommended).
 
