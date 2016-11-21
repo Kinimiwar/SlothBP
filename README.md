@@ -44,9 +44,9 @@ SomeApi = module.SomeApi
 ```
 
 Thanks to:
-@mrexodia
-Anuj Soni
-All others who provided input
+* @mrexodia
+* [anuj](https://twitter.com/asoni)
+* All others who provided input
 
 Feel free to share your INI configurations!
 
